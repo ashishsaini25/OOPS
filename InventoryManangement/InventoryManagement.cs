@@ -18,6 +18,7 @@ namespace InventoryManangement
                 {
                     var json = reader.ReadToEnd();
                     var items = JsonConvert.DeserializeObject<List<Inventory>>(json);
+                    Console.WriteLine(items);
                     Console.WriteLine("name\t" + "price\t" + "weight\t" + "total amount");
                     foreach (var data in items)
 
