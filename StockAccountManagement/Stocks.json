@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Amazon",
+    "NumberOfShare": 60,
+    "sharePrice": 50
+  },
+  {
+    "Name": "Google",
+    "NumberOfShare": 20,
+    "sharePrice": 100
+  },
+  {
+    "Name": "Tesla",
+    "NumberOfShare": 10,
+    "sharePrice": 80
+  },
+  {
+    "Name": "Tata",
+    "NumberOfShare": 60,
+    "sharePrice": 75
+  },
+  {
+    "Name": "Reliance",
+    "NumberOfShare": 28,
+    "sharePrice": 50
+  },
+  {
+    "Name": "Wipro",
+    "NumberOfShare": 60,
+    "sharePrice": 50
+  },
+  {
+    "Name": "AdaniGroups",
+    "NumberOfShare": 38,
+    "sharePrice": 76
+  }
+
+]
